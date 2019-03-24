@@ -9,7 +9,7 @@
   <string name="account_priority">الأولوية</string>
   <string name="account_resource">المورد</string>
   <string name="account_server_name">خادم</string>
-    <string name="account_xmpp_register_warning">يجب عليك <a href="http://www.google.com/#q=register an XMPP account"> تسجيل حساب XMPP</a> قبل إضافته إلى Xabber!</string>
+    <string name="account_xmpp_register_warning">يجب عليك <a href="http://www.google.com/#q=register an XMPP account"> تسجيل حساب XMPP</a> قبل إضافته إلى Darktel!</string>
     <string name="account_user_name">اسم المستخدم</string>
   <string name="EMPTY_SERVER_NAME">لم يتم تحديد اسم الخادم</string>
   <string name="EMPTY_USER_NAME">لم يتم تحديد اسم المستخدم</string>
@@ -71,5 +71,5 @@
   <string name="account_mam_sync_current">تحميل السجلات للمحادثات المفتوحة فقط</string>
   <string name="account_mam_sync_none">لا تقم بتحميل السجلات لأي شخص</string>
   <string name="account_clear_history_on_exit_title">مسح السجلات عند الخروج</string>
-  <string name="account_clear_history_on_exit_summary">حذف كافة رسائل المحادثة من الجهاز قبل الخروج من Xabber.</string>
+  <string name="account_clear_history_on_exit_summary">حذف كافة رسائل المحادثة من الجهاز قبل الخروج من Darktel.</string>
 </resources>

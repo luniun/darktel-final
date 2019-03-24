@@ -25,7 +25,7 @@
   <string name="interface_smiles_none">لا تعبيرات رسومية</string>
   <string name="preference_connection">إعدادات الاتصال\nإعدادات الاتصال</string>
   <string name="preference_contacts">قائمة الاتصال\nتخصيص مظهر قائمة الاتصال</string>
-  <string name="preference_debug">ضبط التصحيح\nخيارات لمساعدة المطورين في تحسين Xabber</string>
+  <string name="preference_debug">ضبط التصحيح\nخيارات لمساعدة المطورين في تحسين Darktel</string>
   <string name="preference_editor">الإعدادات</string>
   <string name="preference_events">إشعارات\nضبط الإشعارات</string>
   <string name="preference_interface">ضبط المظهر\nإعدادات المظهر</string>
@@ -43,7 +43,7 @@
   <string name="connection_go_away_immediately">فوراً عند قفل الشاشة</string>
   <string name="connection_go_xa">\"غياب ممتد\" عند الخمول\nتعيين حالة \"غياب ممتد\" لدى قفل الشاشة</string>
   <string name="connection_priority">إعدادات الأولوية</string>
-  <string name="connection_start_at_boot">تشغيل عند بدء النظام\nتشغيل التطبيق عند بدء نظام التشغيل Android. هذا الإعداد لن يعمل إذا تم تثبيت Xabber على بطاقة الذاكرة SD.</string>
+  <string name="connection_start_at_boot">تشغيل عند بدء النظام\nتشغيل التطبيق عند بدء نظام التشغيل Android. هذا الإعداد لن يعمل إذا تم تثبيت Darktel على بطاقة الذاكرة SD.</string>
   <string name="connection_wake_lock">منع وضع السكون\nمنع الجهاز من السكون. هذا سينقص من عمر البطارية.</string>
   <string name="connection_wifi_lock">أبقٍ اتصال WiFi نشطاً\nأبقٍ اتصال WiFi نشط في وضع السكون. سينقص عمر البطارية</string>
   <string name="contacts_reset_offline">إعادة تعيين إعدادات الأطراف الغير متاحة\nمسح الإعدادات الفردية للمجموعات وأطراف الاتصال</string>

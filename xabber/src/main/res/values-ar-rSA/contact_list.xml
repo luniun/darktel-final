@@ -44,7 +44,7 @@
   <string name="show_offline_normal">استخدام الإعدادات العامة</string>
   <string name="show_offline_settings">إظهار الأطراف الغير متاحة</string>
   <string name="start_at_boot">حمل عند تشغيل الجهاز</string>
-  <string name="start_at_boot_suggest">هل تريد تشغيل Xabber عند بدء نظام التشغيل؟\nيمكن تغيير هذا الإعداد من \"الإعدادات\" → \"إعدادات الاتصال\" → \"تشغيل عند بدء النظام\"</string>
+  <string name="start_at_boot_suggest">هل تريد تشغيل Darktel عند بدء نظام التشغيل؟\nيمكن تغيير هذا الإعداد من \"الإعدادات\" → \"إعدادات الاتصال\" → \"تشغيل عند بدء النظام\"</string>
   <string name="contact_search_hint">بحث في أطراف الاتصال</string>
   <string name="sender_is_you">أنت</string>
   <string name="xmpp_accounts">حسابات XMPP</string>

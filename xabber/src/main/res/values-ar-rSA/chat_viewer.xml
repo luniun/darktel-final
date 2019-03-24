@@ -66,7 +66,7 @@
   <string name="otr_encryption">تشفير OTR</string>
   <string name="otr_end">إيقاف التشفير</string>
   <string name="otr_refresh">إعادة تشغيل التشفير</string>
-  <string name="otr_request">تم طلب تشفير المحادثة باستخدام OTR لكن ليس لديك أداة تدعمها. استخدم Pidgin أو Gajim أو Adium لأنظمة الحاسوب، أو Xabber أو ChatSecure لأنظمة Android.\nتصفح http://otr.cypherpunks.ca/ لمزيد من المعلومات.</string>
+  <string name="otr_request">تم طلب تشفير المحادثة باستخدام OTR لكن ليس لديك أداة تدعمها. استخدم Pidgin أو Gajim أو Adium لأنظمة الحاسوب، أو Darktel أو ChatSecure لأنظمة Android.\nتصفح http://otr.cypherpunks.ca/ لمزيد من المعلومات.</string>
   <string name="otr_start">ابدأ التشفير</string>
     <string name="otr_unreadable_message">الرسالة المشفرة التي أرسلتها ليست مقروؤة لدى الطرف الآخر</string>
   <string name="otr_verification">تحقق OTR</string>
